@@ -1,1 +1,1 @@
-# structured-sentiment-analysis
+# Graduate work, ABBYY 2022
